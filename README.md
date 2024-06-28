@@ -15,3 +15,5 @@ npm install tsx -D
 npm i eslint @rocketseat/eslint-config -D
 
 npm install knex sqlite3
+
+npm install knex -g
