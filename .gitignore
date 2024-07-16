@@ -9,3 +9,4 @@ db/app.db
 
 # production
 /build
+.env
